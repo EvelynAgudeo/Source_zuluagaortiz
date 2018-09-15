@@ -1,4 +1,4 @@
-baseURL = "../zuluagaortiz/"
+baseURL = "/zuluagaortiz"
 languageCode = "en-us"
 title = "Araly Zuluaga & Carlos Ortiz | Abogados"
 theme = "timer-hugo"
