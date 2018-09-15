@@ -1,0 +1,19 @@
+enable  : true
+title   : Sobre Nosotros
+description: >
+  Somos una empresa dirigida a la prestación de servicios integrales de asesoría, consultoría, asistencia legal y jurídica en el sector privado y público con cobertura a nivel nacional, con todas las garantías para con nuestros clientes.
+  <br>
+  <br>
+image   : images/about/about-company.jpg
+aboutItem:
+  - title : Visión
+    description: > 
+      Servicios Integrales de Asistencia Legal la Equidad Center S.A.S. SIDALEC S.A.S., brinda la prestación de asesoría, consultoría, asistencia legal y jurídica en todas las áreas del derecho, en el sector privado y público, en beneficio de nuestros clientes, lo que nos posesionara como una de las empresas más reconocidas a nivel nacional, por nuestra alta competitividad y liderazgo en la prestación de servicios jurídicos.
+
+  - title : Misión
+    description: > 
+      Brindar a nuestros clientes la prestación de servicios integrales de asesoría, consultoría, asistencia legal y jurídica en el sector privado y público, en todas las áreas del derecho, con excelencia, experiencia, eficiencia, cumplimiento, honorabilidad, responsabilidad social y profesional en las gestiones encomendadas, por nuestros clientes.
+
+  - title : Razón Social
+    description: > 
+      SIDALEC S.A.S., Servicios Integrales de Asistencia Legal la Equidad Center S.A.S. Inscrita ante la Cámara de Comercio de Bogotá. Matricula No 02541127. NIT No 900818619-5

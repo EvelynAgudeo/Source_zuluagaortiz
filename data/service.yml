@@ -1,0 +1,11 @@
+enable  : true
+title   : Nuestros servicios
+subtitle: Medellin
+image   : images/team.jpg
+serviceItem :
+  - icon  : ion-ios-paper-outline
+    title : Lawyer Stuff
+    description: >
+      Fight for justice
+
+  

@@ -1,0 +1,20 @@
+enable  : true
+title   : MEET THE TEAM
+members  :
+  - name  : ARALY LUCERO ZULUAGA
+    image : images/team/team-1.jpg
+    designation : Lawyer
+    description : She does lawyer things
+    facebook    : https://www.fb.com/#
+    twitter     : https://www.twitter.com/#
+    linkedIn    : https://www.linkedin.com/#
+    googleplus  : https://plus.google.com/#
+  
+  - name  : ANDRES ORTIZ
+    image : images/team/team-2.jpg
+    designation : Lawyer
+    description : She helps Evelyn's mom
+    facebook    : https://www.fb.com/#
+    twitter     : https://www.twitter.com/#
+    linkedIn    : https://www.linkedin.com/#
+    googleplus  : https://plus.google.com/#

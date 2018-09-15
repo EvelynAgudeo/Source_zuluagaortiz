@@ -1,0 +1,105 @@
+baseURL = "https://evelynagudeo.github.io/zuluagaortiz/"
+languageCode = "en-us"
+title = "Araly Zuluaga & Carlos Ortiz | Abogados"
+theme = "timer-hugo"
+
+# We Used Ionicons Icon font for Icon, for more details check this link - https://ionicons.com/
+
+# Site Menus
+[menu]
+    # Navbar Menus
+    [[menu.nav]]
+        name    = "Sobre nosotros"
+        url     = "/about"
+        weight  = 2
+    [[menu.nav]]
+        name    = "Servicio"
+        url     = "/service"
+        weight  = 3
+    [[menu.nav]]
+        name    = "Contáctenos"
+        url     = "/contact"
+        weight  = 6
+
+# Top bar social links menu
+
+
+# Site Params
+[params]
+    home = "Home"
+    logo = "images/logo.png"
+    dateFormat = "6 January 2006"
+
+    [[params.topbar]]
+    weight = 1
+    name = "GitHub"
+    url = "https://github.com/devcows/hugo-universal-theme"
+    pre = "<i class='fa fa-2x fa-github'></i>"
+
+    [[params.topbar]]
+        weight = 2
+        name = "Facebook"
+        url = "http://facebook.com"
+        pre = "<i class='fa fa-2x fa-facebook'></i>"
+
+    [[params.topbar]]
+        weight = 3
+        name = "Twitter"
+        url = "http://twitter.com"
+        pre = "<i class='fa fa-2x fa-twitter'></i>"
+
+    [[params.topbar]]
+        weight = 4
+        name = "Email"
+        url = "mailto:zuluagaortizabogados@gmail.com"
+        pre = "<i class='fa fa-2x fa-envelope'></i>"
+
+
+    # Banner Section
+    [params.banner]
+        enable  = true
+        bgImage = "images/slider.jpg"
+        heading = "LO ASESORAMOS EN DERECHO:"
+        description = "Abogados líderes en derecho con sede en Medellín"
+        btn     = true
+        btnText = "Descargar Contacto"
+        btnURL  = "https://www.wikomm.com/card/assets/images/users/card_4584.vcf"
+        [[params.banner.flipText]]
+            title   = "FAMILIA"
+        [[params.banner.flipText]]
+            title   = "CIVIL"
+        [[params.banner.flipText]]
+            title   = "ADMINISTRATIVO"
+        [[params.banner.flipText]]
+            title   = "LABORAL Y SEGURIDAD SOCIAL"
+        [[params.banner.flipText]]
+            title   = "PENAL"
+
+    # Homepage About Section
+    [params.about]
+        enable  = true
+        title   = "Sobre Nosotros"
+        content = "Somos una empresa dirigida a la prestación de servicios integrales de asesoría, consultoría, asistencia legal y jurídica en el sector privado y público con cobertura a nivel nacional, con todas las garantías para con nuestros clientes. "
+        image   = "images/about/about.jpg"
+
+    # Call to Action
+    [params.cta]
+        enable  = true
+        title   = "Contact us now"
+        content = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nobis,<br>possimus commodi, fugiat magnam temporibus vero magni recusandae? Dolore, maxime praesentium."
+        btnText = "Contact Us Now!"
+        btnURL  = "/contact"
+
+    # Portfolio Section On Homepage
+    [params.portfolio]
+        enable  = false
+        title   = "Latest Works"
+        subtitle= "Aliquam lobortis. Maecenas vestibulum mollis diam. Pellentesque auctor neque nec urna. Nulla sit amet est. Aenean posuere tortor sed cursus feugiat, nunc augue blandit nunc, eu sollicitudin urna dolor sagittis lacus."
+
+    # Feature Product Section
+    [params.featureProduct]
+        enable  = false
+        title   = "SOME OF OUR FEATURES WORKS"
+        subtitle= "Aliquam lobortis. Maecenas vestibulum mollis diam. Pellentesque auctor neque nec urna. Nulla sit amet est. Aenean posuere <br> tortor sed cursus feugiat, nunc augue blandit nunc, eu sollicitudin urna dolor sagittis lacus."
+
+    
