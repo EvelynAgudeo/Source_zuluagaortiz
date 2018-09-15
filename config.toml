@@ -1,4 +1,4 @@
-baseURL = "https://evelynagudeo.github.io/zuluagaortiz/"
+baseURL = "../zuluagaortiz/"
 languageCode = "en-us"
 title = "Araly Zuluaga & Carlos Ortiz | Abogados"
 theme = "timer-hugo"
@@ -10,7 +10,7 @@ theme = "timer-hugo"
     # Navbar Menus
     [[menu.nav]]
         name    = "Sobre nosotros"
-        url     = "/about"
+        url     = "/sobre_nosotros"
         weight  = 2
     [[menu.nav]]
         name    = "Servicio"
